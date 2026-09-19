@@ -12,7 +12,7 @@ sem framework e sem etapa de build.
 
 - Layout responsivo, de 360px a telas largas
 - Navegação fixa com rolagem suave entre seções
-- Seções de apresentação, serviços, equipe e contato
+- Seções de apresentação, cardápio, ambiente e contato
 - SEO on-page: `title`, `description` e Open Graph para pré-visualização em links
 - Animações de entrada discretas, acionadas por `IntersectionObserver`
 - Chamada direta para WhatsApp
